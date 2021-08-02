@@ -1,2 +1,1 @@
-# haskell-recommender-system
-A product recommender system built in Haskell
+A recommender system for an E-commerce website. It recommends the most relevant products to shoppers based on their purchase history, items in their cart, and shoppers with similar interests. The system is built entirely in Haskell.
